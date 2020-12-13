@@ -256,7 +256,7 @@ plot_Sigma <- ggplot(data = data, aes(x = time, y = Sigma)) +
   geom_point(shape=16) + labs(x = "time",y = "Sigma")
 plot_Sigma
 
-##### Plot - Outputs ####
+##### Plot - Parameter OUTPUTS ####
 plot_alpha
 plot_delta
 plot_Sigma
